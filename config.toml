@@ -1,0 +1,4 @@
+baseURL = "https://goodimagebrainly.vercel.app"
+languageCode = "en-us"
+title = "Good Image Wallpaper"
+theme = "tale-hugo-master"
